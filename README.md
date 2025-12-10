@@ -10,7 +10,6 @@ gcc -o reseau_social resau.c
 
 # Exécution
 ./reseau_social
-
 ## ✨ Fonctionnalités Principales
 - 👥 **Gestion utilisateurs** (ajout/suppression/recherche via ABR)
 - 🤝 **Relations sociales** (amis mutuels + abonnements)
@@ -65,3 +64,4 @@ gcc -o reseau_social resau.c
 
 ---
 *Projet éducatif - Structures de Données en C - [Voir sur GitHub](https://github.com/ademgharbi969-maker/miniprojetc)*
+
