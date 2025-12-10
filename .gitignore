@@ -1,0 +1,13 @@
+# Compiled executable from resau.c
+reseau.exe
+
+# Output files created by your program
+relations.txt
+utilisateurs.bin
+
+# General ignore patterns
+*.exe
+*.bin
+*.txt
+*.o
+*~
