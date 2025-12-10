@@ -9,7 +9,8 @@ Simulation de réseau social en C implémentant des structures de données (ABR,
 gcc -o reseau_social resau.c
 
 # Exécution
-./reseau_social
+./reseau_social  
+```
 ## ✨ Fonctionnalités Principales
 - 👥 **Gestion utilisateurs** (ajout/suppression/recherche via ABR)
 - 🤝 **Relations sociales** (amis mutuels + abonnements)
@@ -27,7 +28,7 @@ gcc -o reseau_social resau.c
 | Fil d'actu | Liste triée par temps | Flux chronologique |
 
 ## 🖥️ Menu Interactif
-```
+
 1. Ajouter un utilisateur
 2. Supprimer un utilisateur  
 3. Afficher tous les utilisateurs
@@ -40,7 +41,7 @@ gcc -o reseau_social resau.c
 10. Sauvegarder les données
 11. Charger les données
 0. Quitter
-```
+
 
 ## 📁 Fichiers du Projet
 - `resau.c` - Code source principal
